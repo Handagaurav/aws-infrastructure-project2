@@ -1,0 +1,8 @@
+Initial Cost Estimate
+https://calculator.aws/#/estimate?id=227b7790a5bf5696bbce41ae5f628df3b24be17e
+
+Increased Cost Estimate
+https://calculator.aws/#/estimate?id=9886fb81a8ff0c3c85d819abf870faba56010da0
+
+Reduced Cost Estimate
+https://calculator.aws/#/estimate?id=83549dbddb3ec3f07e1e1b463e6d78b7dbca2780

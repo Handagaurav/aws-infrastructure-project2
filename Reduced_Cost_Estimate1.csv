@@ -1,0 +1,13 @@
+Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+Reduced_Cost_Estimate,US East (N. Virginia),Amazon EC2,0,1131.9,13582.8,USD,"Operating system (Linux), Quantity (16), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (30 GB), Instance type (t2.large)"
+Reduced_Cost_Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,33.75,405,USD,Number of NAT Gateways (1)
+Reduced_Cost_Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,1791.91,21502.92,USD,"Data Transfer, Data transfer cost (1791.91)"
+Reduced_Cost_Estimate,US East (N. Virginia),S3 Standard,0,235.52,2826.24,USD,S3 Standard storage (10 TB per month)
+Reduced_Cost_Estimate,US East (N. Virginia),Data Transfer,0,1791.91,21502.92,USD,"Data Transfer, Data transfer cost (1791.91)"
+Reduced_Cost_Estimate,US East (N. Virginia),Amazon RDS for PostgreSQL,0,1185.36,14224.32,USD,"Quantity (2), Storage volume (General Purpose SSD (gp2)), Storage amount (2 TB per month), Instance type (db.m5.xlarge), Additional backup storage (2 TB)"
+Reduced_Cost_Estimate,US East (N. Virginia),Elastic Load Balancing,0,37.52,450.24,USD,Number of Application Load Balancers (2)
+Reduced_Cost_Estimate,US East (N. Virginia),Amazon Elastic IP,0,0.11,1.32,USD,"Number of EC2 instances (1), Number of EIPs per instance (1), Number of EIP remaps (1)"
+,,,,6207.98,74495.76,,
+,,,,,,,
+"In order to reduce the cost, RDS instance type was changed to db.m5.xlarge with additional backup storage of 2 TB from instance type of db.m5.4xlarge with additional backup storage of 5 TB.",,,,,,,
+"AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services.",,,,,,,
